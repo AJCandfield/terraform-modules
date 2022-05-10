@@ -1,2 +1,2 @@
-# terraform-modules
-Container of Terraform modules.
+# Terraform Modules
+This repository acts as a container of Terraform modules.
